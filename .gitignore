@@ -1,0 +1,21 @@
+# 数据集与训练产物
+dataset/
+checkpoints/
+results/
+test_results/
+result_long_term_forecast*.txt
+logs/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.so
+
+# 凭据与环境
+.env
+.venv
+venv/
+
+# IDE
+.idea/
+.vscode/
